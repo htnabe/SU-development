@@ -1,12 +1,12 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : 支援金額プラン
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Blonze
+      price : ￥5000
+      unit : 一口
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -20,8 +20,8 @@ pricing:
       
     # pricing table loop
     - name : Silver
-      price : $149
-      unit : month
+      price : ￥10000
+      unit : 一口
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -35,8 +35,8 @@ pricing:
         
     # pricing table loop
     - name : Gold
-      price : $199
-      unit : month
+      price : ￥15000
+      unit : 一口
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -50,8 +50,8 @@ pricing:
         
     # pricing table loop
     - name : Platinum
-      price : $299
-      unit : month
+      price : ￥20000
+      unit : 一口
       services:
         - 1GB Disk Space
         - 10 Email Account

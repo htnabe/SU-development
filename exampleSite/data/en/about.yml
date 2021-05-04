@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : プロジェクト運営・協力者
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
+    title : スマートフォンアプリSUEP開発者
+    content : 本プロジェクトの発起人です。web/スマートフォンアプリの開発を趣味としています。
+    
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : 島根大学ものづくり部Pim
+    content : 創部5年目にも関わらず島根大学のものづくり文化を牽引してきた特殊な団体です。学内の教育だけでは学べない実際のものづくりに挑戦し続けています。島根県内で唯一ハッカソンを開催する団体でもあります。
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : 学内の様々なコミュニティ
+    content : 島根大学地域未来協創本部を始めとした、地域貢献・アントレプレナーシップ教育に関わる部門や関連する学生にもサポートされています。

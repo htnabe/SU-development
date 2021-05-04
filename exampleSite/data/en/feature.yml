@@ -1,27 +1,36 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  #image : images/about/about-business-man.jpg
+  #image_webp : images/about/about-business-man.webp
+  title : プロジェクトCheer! とは
+  content1 : "プロジェクトCheer! はソフトウェア開発・製作を通じて様々な知識・経験を得たいという学生を支援します。ソフトウェア開発にはサーバー代や開発機器の購入などに多額の費用が掛かるため「作りたくても経済的に難しい…」、「まわりに知識のある人がいなくてハードルが高い」といった悩みを抱える学生が多いのが現状です。"
+  content2 :  "こうした学生を支援するため、島根大学ものづくり部Pim、島根大学地域未来協創本部に協力を仰ぎ学外組織からの資金提供を募ることとしました。"
+  content3 : "今後、「学内拠点の設備を整える」＋「ソフトウェア開発に精通した人材を講師として招く」などの活動を行い、ソフトウェア開発に興味のある学生を応援します。"
+ 
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : 学内の情報共有をよりスムーズに
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content1 : このサイトにいらしてくださりありがとうございます。プロジェクトCheer!代表の田部寛です。
+      content2 : 昨年末、私は初めてスマートフォンアプリを開発しました。学内の様々な情報を一括して扱えるように本アプリの開発を進めているのですが、スムーズな情報共有を行うことの重要性や需要を大学側に理解して貰えないことが多く、その他にも、私一人の力では解決できない多くの事柄にぶつかったのがこのプロジェクトの原点です。
+      content3 : コロナ禍ということもあり、様々な情報がオンラインでやり取りされている昨今、上回生はどこでどのような情報が公開されているのかほとんど把握できている一方、新入生や去年コロナで非常に（とても非常に）大きな影響を受けてきた2年生は今でも各個人にとって有益な情報が見つかりにくい状態が続いています。
+      content4 : 「必要な情報が年齢・性別・国籍関係なく必要としている学生に届くようなプラットフォームを構築したい」、この想いを胸にここまで走ってきました。
+      content5 : まずは学内開発拠点を作り上げ、仮に私がこの夢を遂げることが出来なくとも、将来の島大生がものづくりの情熱をもって多くの人々に笑顔を届けられるよう、まずは環境づくりに励んで行きたいと考えています。どうかご支援をよろしくお願い申し上げます。
+      content6: プロジェクトCheer!代表
+      content7: 田部　寛
       
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      #      # feature item loop
+      #- title : Easy Customization
+      #icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      #- title : SEO Optimized
+      #icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      # content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      #- title : Easy Customization
+      #icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

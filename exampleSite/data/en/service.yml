@@ -1,34 +1,19 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : プロジェクトの 目的
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : 人材育成
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 様々なソフトウェア開発を通じ、人と人とのコミュニケーション能力を養うだけでなく「現場で活かせる力」を少しでも多く身に着けた人材を育成します！
       
     # service item loop
-    - name : Responsive Design
+    - name : ものづくり文化の醸成
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 一過性のプロジェクトで終わらせず、ものづくりに携わる学生をコンスタントに集め学内のものづくり文化を更に深く発展させます！
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : 地域貢献
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 「ものづくりの楽しさ」を広く知ってもらう活動への参加だけでなく、そうしたイベントを主催し、様々な形で島根県全体の発展にも貢献します！

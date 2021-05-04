@@ -4,9 +4,11 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "「ご支援」申し込み（都度寄付）｜ソフトウェア開発に励む島大生を応援！｜\"プロジェクトCheer!\"チーム"
+  content : "プロジェクトCheer!では「島大生のものづくりに更なる進化を！」の思いを込めて、島根大学内にソフトウェア開発拠点を構え、島大生によるソフト面でのものづくりに貢献します。
+
+  皆さまからの温かいご支援をお待ちしております。"
   button:
     enable : true
-    label : "Explore Us"
+    label : "詳細はこちら"
     link : "#services"

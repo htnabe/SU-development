@@ -5,21 +5,21 @@ funfacts:
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
+    - title : "Pimコミュニティ総人口(2021/5/1)"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+      count : "81"
     
     # counter item loop
-    - title : "Projects completed"
+    - title : "エンジニア数（ハード・ソフト）"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "60"
     
     # counter item loop
-    - title : "Positive feedback"
+    - title : ""
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+      count : ""
     
     # counter item loop
-    - title : "Cups of Coffee"
+    - title : "今までのご支援額"
       icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250"
+      count : "60000"

@@ -610,11 +610,18 @@ a:hover {
   color: #afbac4;
 }
 
+.about .block p {
+  font-size: 20px;
+}
 /*=================================================================
   About us 2 section
 ==================================================================*/
 .about-2 .content-block {
   padding: 40px;
+}
+
+.about-2 .content-block p {
+  font-size: 20px;
 }
 
 .about-2 .content-block .media {
@@ -631,7 +638,7 @@ a:hover {
 }
 
 .about-2 .content-block .media h4 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
 }
 
@@ -733,6 +740,7 @@ a:hover {
 
 .contact-info p {
   margin-bottom: 25px;
+  font-size: 20px;
 }
 
 .con-info {
@@ -742,6 +750,7 @@ a:hover {
 .con-info i,
 .con-info span {
   padding-right: 5px;
+  font-size: 20px;
 }
 
 .error {
@@ -953,6 +962,10 @@ a:hover {
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
 
+.service-block p {
+  font-size: 20px;
+}
+
 .service-block .service-icon {
   margin-bottom: 10px;
   font-size: 50px;
@@ -1105,10 +1118,13 @@ a:hover {
   margin: 0 0 5px;
 }
 
-.member-meta span {
-  font-size: 12px;
+.member-meta p {
+  font-size: 20px;
 }
 
+.member-meta span {
+  font-size: 16px;
+}
 /*=================================================================
   Testimonial section
 ==================================================================*/

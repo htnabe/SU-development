@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://su-development.netlify.app/"
+title = "プロジェクトCheer! | Cheer up SU-students!"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -43,44 +43,44 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "私たちについて"
 url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "プロジェクトの目的"
 url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "これまでの作品"
 url = "#portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
+name = "プロジェクトメンバー"
 url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "支援金額プラン"
 url = "#pricing"
 weight = 5
 
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "#blog"
+#weight = 6
+
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
+name = "お問い合わせ"
+url = "#contact"
 weight = 6
 
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "themefisher"
+#url = "https://themefisher.com/"
+#weight = 8
 
 
 ################### French Navigation ########################
@@ -109,10 +109,10 @@ name = "tarification"
 url = "#pricing"
 weight = 5
 
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
+#[[Languages.fr.menu.main]]
+#name = "blog"
+#url = "#blog"
+#weight = 6
 
 [[Languages.fr.menu.main]]
 name = "contact"
@@ -128,8 +128,8 @@ weight = 8
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "このサイトは島根大学内にソフトウェア開発拠点を作るための資金調達を円滑に行うために運用されています。"
+author = "Hiroshi TANABE"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -142,7 +142,7 @@ preloader = "images/logo.png"
 
 # cookies
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 
 # google map
@@ -155,38 +155,34 @@ map_marker = "images/marker.png"
 
 ############################# social icons ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/SU_EventsPortal"
 
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
-languageCode = "en-us"
+languageCode = "ja"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Hiroshi TANABE. Developed by [Gethugothemes](https://gethugothemes.com)"
 
 ################################ France Language ########################
 [Languages.fr]
