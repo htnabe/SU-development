@@ -1,0 +1,41 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.useMoney.feature.enable }}
+{{ with $data.useMoney.feature }}
+{{"<!-- feature -->" | safeHTML}}
+<section class="section section-bg about-2 padding-0" id="feature">
+	<div class="container">
+				<div class="content-block">
+					<h2>{{ .title | markdownify }}</h2>
+					<p>{{ .content1 | markdownify }}</p>
+					<p>{{ .content2 | markdownify }}</p>
+					<p>{{ .content3 | markdownify }}</p>
+					<div class="row">
+						{{ range .feature_item }}
+						<div>
+							<div class="media">
+								{{with .icon}}
+								<div class="align-self-start mr-3">
+									<i class="{{ . }}"></i>
+								</div>
+								{{ end }}
+								<div class="media-body">
+									<h4 class="media-heading">{{ .title | markdownify }}</h4>
+									<p>{{ .content1 | markdownify }}</p>
+									<p>{{ .content2 | markdownify }}</p>
+									<p>{{ .content3 | markdownify }}</p>
+									<p>{{ .content4 | markdownify }}</p>
+									<p>{{ .content5 | markdownify }}</p>
+									<p>{{ .content6 | markdownify }}</p>
+									<p>{{ .content7 | markdownify }}</p>
+								</div>
+							</div>
+						</div>
+						{{ end }}
+					</div>
+				</div>
+	</div>
+</section>
+{{"<!-- /feature -->" | safeHTML}}
+{{ end }}
+{{ end }}
