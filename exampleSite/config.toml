@@ -43,29 +43,29 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "私たちについて"
+name = "プロジェクトの目的"
 url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "プロジェクトの目的"
+name = "プロジェクト運営メンバー"
 url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "これまでの作品"
+name = "購入予定の商品・サービス"
 url = "#portfolio"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "プロジェクトメンバー"
-url = "#team"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "メンバー"
+#url = "#team"
+#weight = 4
 
 [[Languages.en.menu.main]]
 name = "支援金額プラン"
 url = "#pricing"
-weight = 5
+weight = 4
 
 #[[Languages.en.menu.main]]
 #name = "blog"
@@ -75,7 +75,7 @@ weight = 5
 [[Languages.en.menu.main]]
 name = "お問い合わせ"
 url = "#contact"
-weight = 6
+weight = 5
 
 #[[Languages.en.menu.main]]
 #name = "themefisher"

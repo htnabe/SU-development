@@ -1,19 +1,16 @@
-################################# Service #################################
+############################# Service ###################################
 service:
   enable : true
-  title : プロジェクトの 目的
+  title : プロジェクト運営・協力者
   service_item :
-    # service item loop
-    - name : 人材育成
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : 様々なソフトウェア開発を通じ、人と人とのコミュニケーション能力を養うだけでなく「現場で活かせる力」を少しでも多く身に着けた人材を育成します！
-      
-    # service item loop
-    - name : ものづくり文化の醸成
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : 一過性のプロジェクトで終わらせず、ものづくりに携わる学生をコンスタントに集め学内のものづくり文化を更に深く発展させます！
-      
-    # service item loop
-    - name : 地域貢献
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : 「ものづくりの楽しさ」を広く知ってもらう活動への参加だけでなく、そうしたイベントを主催し、様々な形で島根県全体の発展にも貢献します！
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    name : スマートフォンアプリSUEP開発者
+    content : 本プロジェクトの発起人です。web/スマートフォンアプリの開発を趣味としています。
+    
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    name : 島根大学ものづくり部Pim
+    content : 創部5年目にも関わらず島根大学のものづくり文化を牽引してきた特殊な団体です。学内の教育だけでは学べない実際のものづくりに挑戦し続けています。島根県内で唯一ハッカソンを開催する団体でもあります。
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    name : 学内の様々なコミュニティ
+    content : 島根大学地域未来協創本部を始めとした、地域貢献・アントレプレナーシップ教育に関わる部門や関連する学生にもサポートされています。

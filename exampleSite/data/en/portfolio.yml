@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : ご支援の使い道
+  title : 購入予定の商品・サービス
   portfolio_item :
     # portfolio item loop
     - name : Tag デザイン

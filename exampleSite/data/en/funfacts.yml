@@ -15,11 +15,11 @@ funfacts:
       count : "60"
     
     # counter item loop
-    - title : ""
+    - title : "支援いただいている団体・個人"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : ""
+      count : "0"
     
     # counter item loop
-    - title : "今までのご支援額"
+    - title : "今までのご支援金額"
       icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "60000"
+      count : "0"

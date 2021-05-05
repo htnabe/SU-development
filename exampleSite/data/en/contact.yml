@@ -1,20 +1,14 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : 連絡先
+  title : お問い合わせ
   subtitle : 連絡方法
-  content : ご支援に関する質問・連絡は右のフォームをご利用頂くか下記のEmail・電話・郵送にてお願いします。
+  content : ご支援に関する質問・連絡は右のフォームをご利用頂くか下記の住所まで郵送でお願いします。
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "〒690-0xxx 島根県松江市西川津町1060 島根大学ものづくり部Pim"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "〒690-8504 島根県松江市西川津町1060 島根大学ものづくり部Pim（プロジェクトCheer!）"
 
 
   # Contact form
