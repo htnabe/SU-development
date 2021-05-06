@@ -6,14 +6,14 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : Hiroshi TANABE
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+      image : images/team/hiroshiTANABE_image2.png
+      image_webp : images/team/hiroshiTANABE_image.webp
       date : May 05, 2021
       content : スマートフォンアプリSUEP開発者 / Pim / M1
 
     # testimonial item loop
     - name : NAKAMURA
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
+      image : images/team/human_image.png
+      image_webp : images/team/human_image.webp
       date : Dec 26, 2018
       content : 未来のアプリ開発者 / B3

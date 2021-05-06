@@ -8,12 +8,7 @@ pricing:
       price : ￥5000
       unit : 一口
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 特典1
       button:
         label : "Signup"
         link : "#"
@@ -23,12 +18,8 @@ pricing:
       price : ￥10000
       unit : 一口
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 特典1
+        - 特典2
       button:
         label : "Signup"
         link : "#"
@@ -38,12 +29,9 @@ pricing:
       price : ￥15000
       unit : 一口
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 特典1 
+        - 特典2
+        - 特典3
       button:
         label : "Signup"
         link : "#"
@@ -53,12 +41,10 @@ pricing:
       price : ￥20000
       unit : 一口
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 特典1
+        - 特典2
+        - 特典3
+        - 特典4
       button:
         label : "Signup"
         link : "#"

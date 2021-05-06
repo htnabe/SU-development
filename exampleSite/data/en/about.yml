@@ -5,15 +5,15 @@ about:
   about_item :
     # service item loop
     - title : 人材育成
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
       content : 様々なソフトウェア開発を通じ、人と人とのコミュニケーション能力を養うだけでなく「現場で活かせる力」を少しでも多く身に着けた人材を育成します！
       
     # service item loop
     - title : ものづくり文化の醸成
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      icon : ti-book # themify icon pack : https://themify.me/themify-icons
       content : 一過性のプロジェクトで終わらせず、ものづくりに携わる学生をコンスタントに集め学内のものづくり文化を更に深く発展させます！
       
     # service item loop
     - title : 地域貢献
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon : far fa-handshake # themify icon pack : https://themify.me/themify-icons
       content : 「ものづくりの楽しさ」を広く知ってもらう活動への参加だけでなく、そうしたイベントを主催し、様々な形で島根県全体の発展にも貢献します！
