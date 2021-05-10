@@ -5,46 +5,46 @@ pricing:
   pricing_table :
     # pricing table loop
     - name : Blonze
-      price : ￥5000
-      unit : 一口
+      price : 5万円
+      unit : 
       services:
-        - 特典1
+        - Pim公式サイトへのロゴ掲載
       button:
-        label : "Signup"
-        link : "#"
+        label : "申し込みフォームをダウンロード"
+        link : "docs/Support-form-Bronze.docx"
       
     # pricing table loop
     - name : Silver
-      price : ￥10000
-      unit : 一口
+      price : 10万円
+      unit : 
       services:
-        - 特典1
-        - 特典2
+        - Pim公式サイトへのロゴ掲載
+        - 新入生向け動画でのロゴ掲載
       button:
-        label : "Signup"
-        link : "#"
+        label : "申し込みフォームをダウンロード"
+        link : "docs/Support-form-Silver.docx"
         
     # pricing table loop
     - name : Gold
-      price : ￥15000
-      unit : 一口
+      price : 15万円
+      unit : 
       services:
-        - 特典1 
-        - 特典2
-        - 特典3
+        - Pim公式サイトへのロゴ掲載
+        - 新入生向け動画でのロゴ掲載
+        - PimHackサブタイトルの命名権
       button:
-        label : "Signup"
-        link : "#"
+        label : "申し込みフォームをダウンロード"
+        link : "docs/Support-form-Gold.docx"
         
     # pricing table loop
     - name : Platinum
-      price : ￥20000
-      unit : 一口
+      price : 20万円
+      unit : 
       services:
-        - 特典1
-        - 特典2
-        - 特典3
-        - 特典4
+        - Pim公式サイトへのロゴ掲載
+        - 新入生向け動画でのロゴ掲載
+        - PimHackのテーマ決定権
+        - 開発拠点命名権
       button:
-        label : "Signup"
-        link : "#"
+        label : "申し込みフォームをダウンロード"
+        link : "docs/Support-form-Platinum.docx"
